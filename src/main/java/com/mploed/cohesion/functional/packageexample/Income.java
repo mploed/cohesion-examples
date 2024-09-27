@@ -1,6 +1,6 @@
 package com.mploed.cohesion.functional.packageexample;
 
-public class Income {
+class Income {
     private int income;
 
     public Income(int income) {

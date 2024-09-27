@@ -1,6 +1,6 @@
 package com.mploed.cohesion.functional.packageexample;
 
-public class Job {
+class Job {
     private JobType jobType;
 
     public Job(JobType jobType) {

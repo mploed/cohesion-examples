@@ -1,6 +1,6 @@
 package com.mploed.cohesion.functional.packageexample;
 
-public class Applicant {
+class Applicant {
     private Age age;
     private Income income;
     private Job job;
