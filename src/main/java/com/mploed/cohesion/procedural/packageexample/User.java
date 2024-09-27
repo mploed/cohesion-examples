@@ -2,7 +2,7 @@ package com.mploed.cohesion.procedural.packageexample;
 
 import java.util.UUID;
 
-public class User {
+class User {
     private UUID id;
     private String name;
     private String mail;

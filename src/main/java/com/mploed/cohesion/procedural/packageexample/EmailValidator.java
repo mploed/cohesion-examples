@@ -2,7 +2,7 @@ package com.mploed.cohesion.procedural.packageexample;
 
 import java.util.regex.Pattern;
 
-public class EmailValidator {
+class EmailValidator {
     private static final Pattern EMAIL_PATTERN = Pattern.compile(
             "^[A-Za-z0-9+_.-]+@(.+)$"
     );
