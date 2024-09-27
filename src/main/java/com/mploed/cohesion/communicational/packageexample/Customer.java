@@ -1,6 +1,6 @@
 package com.mploed.cohesion.communicational.packageexample;
 
-public class Customer {
+class Customer {
     private int id;
 
     private String name;
