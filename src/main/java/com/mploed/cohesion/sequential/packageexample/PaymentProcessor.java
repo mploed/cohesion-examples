@@ -1,6 +1,6 @@
 package com.mploed.cohesion.sequential.packageexample;
 
-public class PaymentProcessor {
+class PaymentProcessor {
     public static Payment processPayment(ShoppingCart shoppingCart) {
         Payment payment = new Payment();
         shoppingCart.getItems().forEach(item -> {

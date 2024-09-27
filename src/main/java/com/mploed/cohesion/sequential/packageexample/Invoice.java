@@ -3,7 +3,7 @@ package com.mploed.cohesion.sequential.packageexample;
 import java.util.Date;
 import java.util.UUID;
 
-public class Invoice {
+class Invoice {
     private UUID invoiceNumber;
 
     private Date invoiceDate;

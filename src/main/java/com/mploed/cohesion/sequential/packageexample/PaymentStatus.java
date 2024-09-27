@@ -1,5 +1,5 @@
 package com.mploed.cohesion.sequential.packageexample;
 
-public enum PaymentStatus {
+enum PaymentStatus {
     PAID, OPEN
 }

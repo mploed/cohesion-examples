@@ -3,7 +3,7 @@ package com.mploed.cohesion.sequential.packageexample;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ShoppingCart {
+class ShoppingCart {
     private Set<Item> items = new HashSet<>();
 
     public void addItem(Item item) {

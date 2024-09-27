@@ -2,7 +2,7 @@ package com.mploed.cohesion.sequential.packageexample;
 
 import java.util.UUID;
 
-public class Item {
+class Item {
     private UUID itemNumber;
     private String name;
     private double price;
